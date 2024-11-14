@@ -76,7 +76,7 @@ rm(list=ls())
 
 ## Set by User
 # Working Directory - Provide/path/on/your/computer/where/master/csv/file/of/nodes/is/found/and/where/Functions_CTT.Network.R/is/located
-working.directory <- " Home/Node calibration/Paxto"
+working.directory <- ""
 
 # Directory for Output data - Provide/path/where/you/want/output/data/to/be/stored/
 outpath <- " add here - make sure it ends with a /"
